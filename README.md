@@ -5,4 +5,4 @@ engineer.
 
 - 🔭 I’m currently working as a AI Engineer at ASMI.
 - 🌱 I’m currently learning 3D reconstruction.
-- ⚡  I’m looking to collaborate on Data Science, Machine Learning and Deep Learning
+- ⚡  I’m looking to collaborate on Computer Vision, Machine Learning and Deep Learning

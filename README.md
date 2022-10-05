@@ -28,7 +28,7 @@ engineer.
 <br />
 
 ### Connect with me
-[<img align="left" alt="sanbuddhacharya" | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" />][linkedin]
+[<img align="left" alt="sanbuddhacharya | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" />][linkedin]
   
 <br />
   

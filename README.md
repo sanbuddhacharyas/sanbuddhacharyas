@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanbuddhacharyas&label=Profile%20views&color=0e75b6&style=flat" alt="sanbuddhacharyas" /> </p>
 
-- 🔭 I’m currently working as a **Graduate Research Assistant** with Prof. Stephen Ramsey to predict the drug level concentration in the saliva sample. (Data Science, Feature Engineering, Model tuning)
+- 🔭 I’m currently working as a **Graduate Research Assistant** with Prof. Stephen Ramsey to predict the drug level concentration in the saliva sample. (Data Science, Feature Engineering, Model tuning). I'm also working on my personal projects in generative AI.
 
 - 🌱 I’m currently learning **Diffusion models, RAGs and vector database**
 
